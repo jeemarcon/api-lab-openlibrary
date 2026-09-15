@@ -1,0 +1,11 @@
+# ambientes virtuais - cada maquina gera o seu, nao versionamos
+.venv/
+venv/
+env/
+
+# cache que o python gera sozinho, sem valor nenhum versionado
+__pycache__/
+*.pyc
+
+# segredos (vamos usar uma API key mais pra frente - nunca comitar isso)
+.env
