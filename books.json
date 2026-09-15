@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "openlibrary_key": "/works/OL27850217W",
+    "title": "Fundamentals of Data Engineering",
+    "author": "Joe Reis",
+    "first_publish_year": 2022
+  },
+  {
+    "id": 2,
+    "openlibrary_key": "/works/OL27415386W",
+    "title": "Azure Data Engineer Associate Certification Guide",
+    "author": "Newton Alex",
+    "first_publish_year": 2022
+  },
+  {
+    "id": 3,
+    "openlibrary_key": "/works/OL28803276W",
+    "title": "Azure Data Engineering Cookbook",
+    "author": "Nagaraj Venkatesan",
+    "first_publish_year": 2021
+  },
+  {
+    "id": 4,
+    "openlibrary_key": "/works/OL21651085W",
+    "title": "Official Google Cloud Certified Professional Data Engineer Study Guide",
+    "author": "Dan Sullivan",
+    "first_publish_year": 2020
+  },
+  {
+    "id": 5,
+    "openlibrary_key": "/works/OL21886069W",
+    "title": "Azure Data Engineering",
+    "author": "Richard L. Nuckolls",
+    "first_publish_year": 2020
+  },
+  {
+    "id": 6,
+    "openlibrary_key": "/works/OL26767032W",
+    "title": "Data Engineering with AWS",
+    "author": "Gareth Eagar",
+    "first_publish_year": 2021
+  },
+  {
+    "id": 7,
+    "openlibrary_key": "/works/OL27082404W",
+    "title": "Data Engineering with Python",
+    "author": "Paul Crickard",
+    "first_publish_year": 2020
+  },
+  {
+    "id": 8,
+    "openlibrary_key": "/works/OL17502017W",
+    "title": "Model And Data Engineering",
+    "author": "Ladjel Bellatreche",
+    "first_publish_year": 2011
+  },
+  {
+    "id": 9,
+    "openlibrary_key": "/works/OL3900762W",
+    "title": "Data engineering",
+    "author": "Tom Gilb",
+    "first_publish_year": 1976
+  },
+  {
+    "id": 10,
+    "openlibrary_key": "/works/OL27986403W",
+    "title": "Data Engineering",
+    "author": "Brian Shive",
+    "first_publish_year": 2013
+  },
+  {
+    "id": 11,
+    "openlibrary_key": "/works/OL26980568W",
+    "title": "Data Engineering and Data Science",
+    "author": "Aynur Unal",
+    "first_publish_year": 2022
+  },
+  {
+    "id": 12,
+    "openlibrary_key": "/works/OL25316742W",
+    "title": "Azure Data Factory by Example",
+    "author": "Richard Swinbank",
+    "first_publish_year": 2021
+  },
+  {
+    "id": 13,
+    "openlibrary_key": "/works/OL20823097W",
+    "title": "Data, Engineering and Applications",
+    "author": "Rajesh Kumar Shukla",
+    "first_publish_year": 2019
+  },
+  {
+    "id": 14,
+    "openlibrary_key": "/works/OL284009W",
+    "title": "Software Engineering",
+    "author": "Roger S. Pressman",
+    "first_publish_year": 1982
+  },
+  {
+    "id": 15,
+    "openlibrary_key": "/works/OL42403877W",
+    "title": "Snowflake Data Engineering",
+    "author": "Maja Ferle",
+    "first_publish_year": 2025
+  },
+  {
+    "id": 16,
+    "openlibrary_key": "/works/OL10729498W",
+    "title": "Engineering sciences data",
+    "author": "Engineering Sciences Data Unit.",
+    "first_publish_year": 1944
+  },
+  {
+    "id": 17,
+    "openlibrary_key": "/works/OL28156752W",
+    "title": "Data Engineering Cookbook",
+    "author": "Yassine MOUSAIF",
+    "first_publish_year": 2022
+  },
+  {
+    "id": 18,
+    "openlibrary_key": "/works/OL27815265W",
+    "title": "MCA Microsoft Certified Associate Data Engineer Study Guide",
+    "author": "Benjamin Perkins",
+    "first_publish_year": 2023
+  },
+  {
+    "id": 19,
+    "openlibrary_key": "/works/OL25459069W",
+    "title": "Data Engineering on Azure",
+    "author": "Vlad Riscutia",
+    "first_publish_year": 2021
+  },
+  {
+    "id": 20,
+    "openlibrary_key": "/works/OL1984422W",
+    "title": "Physics for scientists and engineers",
+    "author": "Paul A. Tipler",
+    "first_publish_year": 1990
+  },
+  {
+    "id": 21,
+    "openlibrary_key": "/works/OL42394425W",
+    "title": "Data Engineering Design Patterns",
+    "author": "Bartosz Konieczny",
+    "first_publish_year": 2025
+  },
+  {
+    "id": 22,
+    "openlibrary_key": "/works/OL37825082W",
+    "title": "Supervised and Unsupervised Data Engineering for Medical Data",
+    "author": "Charu Gupta",
+    "first_publish_year": 2024
+  },
+  {
+    "id": 23,
+    "openlibrary_key": "/works/OL19898934W",
+    "title": "Recent Progress in Data Engineering and Internet Technology",
+    "author": "Ford Lumban Gaol",
+    "first_publish_year": 2012
+  },
+  {
+    "id": 24,
+    "openlibrary_key": "/works/OL25852237W",
+    "title": "Google Professional Data Engineer",
+    "author": "Jason Hoffman",
+    "first_publish_year": 2020
+  },
+  {
+    "id": 25,
+    "openlibrary_key": "/works/OL25884813W",
+    "title": "Google Cloud Certified",
+    "author": "Jason Hoffman",
+    "first_publish_year": 2020
+  },
+  {
+    "id": 26,
+    "openlibrary_key": "/works/OL25815335W",
+    "title": "Data Engineering with Apache Spark, Delta Lake, and Lakehouse",
+    "author": "Manoj Kukreja",
+    "first_publish_year": 2021
+  },
+  {
+    "id": 27,
+    "openlibrary_key": "/works/OL16967080W",
+    "title": "Data Engineering",
+    "author": "Yupo Chan",
+    "first_publish_year": 2010
+  },
+  {
+    "id": 28,
+    "openlibrary_key": "/works/OL3275175W",
+    "title": "Engineering mechanics",
+    "author": "J. L. Meriam",
+    "first_publish_year": 1978
+  },
+  {
+    "id": 29,
+    "openlibrary_key": "/works/OL37484532W",
+    "title": "Data Engineering with Google Cloud Platform",
+    "author": "Adi Wijaya",
+    "first_publish_year": 2022
+  },
+  {
+    "id": 30,
+    "openlibrary_key": "/works/OL38119719W",
+    "title": "Data Engineering with Databricks Cookbook",
+    "author": "Pulkit Chadha",
+    "first_publish_year": 2024
+  },
+  {
+    "id": 31,
+    "openlibrary_key": "/works/OL42539538W",
+    "title": "Data Engineering for AI/ML Pipelines",
+    "author": "Venkata Karthik Penikalapati",
+    "first_publish_year": 2024
+  },
+  {
+    "id": 32,
+    "openlibrary_key": "/works/OL20820998W",
+    "title": "Proceedings of International Conference on Computational Intelligence and Data Engineering",
+    "author": "Nabendu Chaki",
+    "first_publish_year": 2018
+  },
+  {
+    "id": 33,
+    "openlibrary_key": "/works/OL39631606W",
+    "title": "International Journal of Multimedia Data Engineering and Management, Issue 1",
+    "author": "Shu-Ching Chen",
+    "first_publish_year": 2010
+  },
+  {
+    "id": 34,
+    "openlibrary_key": "/works/OL21381311W",
+    "title": "Data Engineering",
+    "author": "Olaf Wolkenhauer",
+    "first_publish_year": 2004
+  },
+  {
+    "id": 35,
+    "openlibrary_key": "/works/OL2715623W",
+    "title": "Data Engineering",
+    "author": "Olaf Wolkenhauer",
+    "first_publish_year": 2001
+  },
+  {
+    "id": 36,
+    "openlibrary_key": "/works/OL20688698W",
+    "title": "Data Engineering and Intelligent Computing",
+    "author": "Suresh Chandra Satapathy",
+    "first_publish_year": 2017
+  },
+  {
+    "id": 37,
+    "openlibrary_key": "/works/OL44542475W",
+    "title": "Data Engineering for Beginners",
+    "author": "Chisom Nwokwu",
+    "first_publish_year": 2025
+  },
+  {
+    "id": 38,
+    "openlibrary_key": "/works/OL42441210W",
+    "title": "Data Engineering for Cybersecurity",
+    "author": "James Bonifield",
+    "first_publish_year": 2025
+  },
+  {
+    "id": 39,
+    "openlibrary_key": "/works/OL38379247W",
+    "title": "AI and Data Engineering Solutions for Effective Marketing",
+    "author": "Lhoussaine Alla",
+    "first_publish_year": 2024
+  },
+  {
+    "id": 40,
+    "openlibrary_key": "/works/OL39696066W",
+    "title": "Starlight Data Engineer",
+    "author": "Future Point Systems Inc.",
+    "first_publish_year": 2010
+  },
+  {
+    "id": 41,
+    "openlibrary_key": "/works/OL10729499W",
+    "title": "Engineering sciences data",
+    "author": "Engineering Sciences Data Unit.",
+    "first_publish_year": 1971
+  },
+  {
+    "id": 42,
+    "openlibrary_key": "/works/OL28024971W",
+    "title": "Data Engineering with Alteryx",
+    "author": "Paul Houghton",
+    "first_publish_year": 2022
+  },
+  {
+    "id": 43,
+    "openlibrary_key": "/works/OL38120603W",
+    "title": "AWS Certified Data Engineer Study Guide",
+    "author": "Syed Humair",
+    "first_publish_year": 2024
+  },
+  {
+    "id": 44,
+    "openlibrary_key": "/works/OL20006690W",
+    "title": "Data science from scratch",
+    "author": "Joel Grus",
+    "first_publish_year": 2015
+  },
+  {
+    "id": 45,
+    "openlibrary_key": "/works/OL36456391W",
+    "title": "Data Engineering with Dbt",
+    "author": "Roberto Zagni",
+    "first_publish_year": 2023
+  },
+  {
+    "id": 46,
+    "openlibrary_key": "/works/OL27402430W",
+    "title": "Computational Methods and Data Engineering",
+    "author": "Vijendra Singh",
+    "first_publish_year": 2020
+  },
+  {
+    "id": 47,
+    "openlibrary_key": "/works/OL28382246W",
+    "title": "Becoming a Data Engineer",
+    "author": "Laura La Bella",
+    "first_publish_year": 2017
+  },
+  {
+    "id": 48,
+    "openlibrary_key": "/works/OL22138108W",
+    "title": "Data Engineering and Communication Technology",
+    "author": "K. Srujan Raju",
+    "first_publish_year": 2020
+  },
+  {
+    "id": 49,
+    "openlibrary_key": "/works/OL22641064W",
+    "title": "Multimedia data engineering applications and processing",
+    "author": "Shu-Ching Chen",
+    "first_publish_year": 2013
+  },
+  {
+    "id": 50,
+    "openlibrary_key": "/works/OL12978907W",
+    "title": "Data engineering",
+    "author": "International Conference on Data Engineering (1st 1984 Los Angeles, Calif.)",
+    "first_publish_year": 1984
+  },
+  {
+    "id": 51,
+    "openlibrary_key": "/works/OL20705608W",
+    "title": "Data-Driven Science and Engineering",
+    "author": "Steven L. Brunton",
+    "first_publish_year": 1900
+  },
+  {
+    "id": 52,
+    "openlibrary_key": "/works/OL11235125W",
+    "title": "Data and techniques for preliminary capital cost estimating",
+    "author": "K. M. Guthrie",
+    "first_publish_year": 1969
+  },
+  {
+    "id": 53,
+    "openlibrary_key": "/works/OL27408873W",
+    "title": "Test Data Engineering",
+    "author": "Kojiro Shojima",
+    "first_publish_year": 2022
+  },
+  {
+    "id": 54,
+    "openlibrary_key": "/works/OL27083215W",
+    "title": "97 Things Every Data Engineer Should Know",
+    "author": "Paco Nathan",
+    "first_publish_year": 2020
+  },
+  {
+    "id": 55,
+    "openlibrary_key": "/works/OL27385360W",
+    "title": "Enterprise Big Data Engineering, Analytics, and Management",
+    "author": "Martin Atzmueller",
+    "first_publish_year": 2016
+  },
+  {
+    "id": 56,
+    "openlibrary_key": "/works/OL19898933W",
+    "title": "Recent Progress in Data Engineering and Internet Technology",
+    "author": "Ford Lumban Gaol",
+    "first_publish_year": 2013
+  },
+  {
+    "id": 57,
+    "openlibrary_key": "/works/OL42417895W",
+    "title": "Data Engineering for Data-Driven Marketing",
+    "author": "Balamurugan Baluswamy",
+    "first_publish_year": 2025
+  },
+  {
+    "id": 58,
+    "openlibrary_key": "/works/OL2720189W",
+    "title": "Numerical methods for engineers",
+    "author": "Steven C. Chapra",
+    "first_publish_year": 1985
+  },
+  {
+    "id": 59,
+    "openlibrary_key": "/works/OL37767240W",
+    "title": "Artificial Intelligence and Multimedia Data Engineering",
+    "author": "Suman Kumar Swarnkar;",
+    "first_publish_year": 2023
+  },
+  {
+    "id": 60,
+    "openlibrary_key": "/works/OL9619796W",
+    "title": "Data Engineering",
+    "author": "Fla.) International Conference on Data Engineering (14th : 1998 : Orlando",
+    "first_publish_year": 1998
+  }
+]
